@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Web App Builder AI",
+  "description": "مساعد ذكي لإنشاء تطبيقات ويب PWA باستخدام Supabase و GitHub Pages",
+  "requestFramePermissions": []
+}
